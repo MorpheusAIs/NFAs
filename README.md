@@ -5,7 +5,7 @@
 ### The NFA Standard was first described in MRC 21. Credit to MaxwellSmartAgent.
 https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC21.md
 
-### Available on Notion: 
+### Technical Documentation Available on Notion: 
 https://nounspace.notion.site/MRC21-Factory-Guide-c5c0c48039a2499eaebf5b54c731ed20
 
 ## MRC21 Factory Guide
