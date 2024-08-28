@@ -2,6 +2,9 @@
 ## Non Fungible Agents 
 ## Status: In Development / Testing
 
+![MRC21 Factory Contract](https://github.com/user-attachments/assets/1c776e60-754d-4bd7-9207-1017925fcb23)
+
+
 ### The NFA Standard was first described in MRC 21. Credit to MaxwellSmartAgent.
 https://github.com/MorpheusAIs/MRC/blob/main/IN%20PROGRESS/MRC21.md
 
